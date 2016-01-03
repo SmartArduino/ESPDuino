@@ -1,6 +1,11 @@
 # ESPDuino
 #### ESPDuino-ESP8266 Develop boards, arduino compatible shields From www.doit.am
 
+## Technical Support
+BBS:[bbs.doit.am](www.bbs.doit.am)<br>
+QQ Group:453053759<br>
+Email:support@doit.am<br>
+
 ## Where to Buy
 [www.smartarduino.com](http://www.smartarduino.com/view.php?id=94894)<br>
 [www.taobao.com](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4023-7420481802.13.c0x4ff&id=525057040876)<br>
