@@ -1,5 +1,5 @@
 # ESPDuino
-ESPDuino-ESP8266 Develop boards, arduino compatible shields From www.doit.am<br>
+ESPDuino-ESP8266 Develop boards, arduino compatible shields from www.doit.am<br>
 ![image](https://github.com/SmartArduino/ESPDuino/blob/master/doc/img/espduino.png)
 
 ## How to begin
