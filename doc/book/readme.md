@@ -16,7 +16,7 @@
 - 进阶 第10章 UDP<br/>
 - 进阶 第11章 WebServer<br/>
 
-## 产品篇（advanced user only）<br/>
+## 产品篇（advanced reader only）<br/>
 - 产品 第12章 通过Web OTA升级固件<br/>
 - 产品 第13章 准产品例子<br/>
 - 产品 第14章 微信控制三色灯<br/>
