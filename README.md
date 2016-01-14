@@ -2,6 +2,9 @@
 ESPDuino-ESP8266 Develop boards, arduino compatible shields from www.doit.am<br>
 ![image](https://github.com/SmartArduino/ESPDuino/blob/master/image/espduino.png)
 
+##Book
+* 基于ESPDUINO的智慧物联开发宝典-源码
+
 ## How to begin
 * [Install esp8266 board in Arduino IDE](http://bbs.doit.am/forum.php?mod=viewthread&tid=223&extra=page%3D1)
 * [Esp8266 arduino project](https://github.com/esp8266/Arduino)
